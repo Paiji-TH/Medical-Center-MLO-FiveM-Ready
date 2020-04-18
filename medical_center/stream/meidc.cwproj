@@ -1,0 +1,23 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>clawles_int_placement.ymap</Item>
+    <Item>int_hospital_0fl_milo_.ymap</Item>
+    <Item>int_hospital_1fl_milo_.ymap</Item>
+    <Item>int_hospital_2fl_milo_.ymap</Item>
+    <Item>int_hospital_lod.ymap</Item>
+    <Item>int_hospital_slod.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>clawles_props.ytyp</Item>
+    <Item>int_0_fl_hospital.ytyp</Item>
+    <Item>int_1_fl_hospital.ytyp</Item>
+    <Item>int_2_fl_hospital.ytyp</Item>
+    <Item>int_hospital_slod.ytyp</Item>
+  </YtypFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>
