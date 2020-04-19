@@ -1,6 +1,6 @@
 Discord : https://discord.gg/tanPeMd
 
-Vidéo : Soon
+Vidéo : https://www.youtube.com/watch?v=sS1pyKzw-ok
 
 Tutorial: 
 
